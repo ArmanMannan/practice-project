@@ -1,4 +1,4 @@
 # practice-project
 this is my first  repository
 <br>
-Author - Arman Mannnan
+Author - Arman Mannnan is cool
